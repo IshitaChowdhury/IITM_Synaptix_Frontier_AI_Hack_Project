@@ -6,9 +6,9 @@ Track 1: Agentic AI (Applied GenAI)
 
 # Team
 
-Mindspark  
+**Mindspark**  
 
-#Team Lead: Ishita Chowdhury
+Team Lead: Ishita Chowdhury
 
 
 
@@ -102,6 +102,7 @@ This repository demonstrates:
 
 
 Docker-based execution and UI integration are planned for future iterations.
+
 
 
 
