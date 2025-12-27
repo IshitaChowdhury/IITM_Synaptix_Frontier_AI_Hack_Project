@@ -1,14 +1,14 @@
-\# Live Codebase Copilot – Agentic AI with Pathway
+# Live Codebase Copilot – Agentic AI with Pathway
 
 
 
-\## Track
+## Track
 
 Track 1: Agentic AI (Applied GenAI)
 
 
 
-\## Team
+## Team
 
 Mindspark  
 
@@ -117,6 +117,7 @@ This repository demonstrates:
 
 
 Docker-based execution and UI integration are planned for future iterations.
+
 
 
 
