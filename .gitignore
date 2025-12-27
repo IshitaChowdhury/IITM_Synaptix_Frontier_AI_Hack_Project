@@ -1,0 +1,60 @@
+# Environment & secrets
+.env
+*.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs & temp
+*.log
+*.tmp
+
+# OS & editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# # Docker
+# .dockerignore
+# Dockerfile
+
+# Sensitive/Config files
+.aws/
+.ssh/
+*.pem
+*.key
+*.crt
+*.pfx
+config.local.py
+secrets.json
+credentials.json
+.env.local
+.env.*.local
+
+# IDE & Build
+*.swp
+*.swo
+*~
+.cache/
+dist/
+build/
+*.egg-info/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS temp files
+.Trash/
+.tmp/
