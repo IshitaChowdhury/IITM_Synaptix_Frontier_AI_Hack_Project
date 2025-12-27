@@ -1,44 +1,29 @@
 # Live Codebase Copilot – Agentic AI with Pathway
 
-
-
-## Track
+# Track
 
 Track 1: Agentic AI (Applied GenAI)
 
-
-
-## Team
+# Team
 
 Mindspark  
 
-Team Lead: Ishita Chowdhury
+#Team Lead: Ishita Chowdhury
 
 
 
-\## Problem
+## Problem
 
 Developer codebases and documentation evolve continuously.
 
-Traditional RAG systems rely on static indexing pipelines, which quickly
-
-become outdated and require costly re-indexing and redeployment.
-
-
+Traditional RAG systems rely on static indexing pipelines, which quickly become outdated and require costly re-indexing and redeployment.
 
 This leads to stale AI responses and poor developer experience.
 
 
+## Solution
 
-\## Solution
-
-\*\*Live Codebase Copilot\*\* is an agentic AI system built using \*\*Pathway\*\*
-
-that continuously monitors a live codebase folder and updates its vector
-
-index in real time.
-
-
+**Live Codebase Copilot** is an agentic AI system built using **Pathway** that continuously monitors a live codebase folder and updates its vector index in real time.
 
 Any file addition, modification, or deletion is immediately reflected
 
@@ -46,7 +31,7 @@ in the AI’s responses — without restarting the system.
 
 
 
-\## Why Pathway?
+## Why Pathway?
 
 Pathway’s streaming-first architecture enables:
 
@@ -66,7 +51,7 @@ react to real-world data instantly.
 
 
 
-\## Agentic Behavior
+## Agentic Behavior
 
 The AI agent:
 
@@ -80,7 +65,7 @@ The AI agent:
 
 
 
-\## Architecture Overview
+## Architecture Overview
 
 \- File system acts as a live data stream
 
@@ -92,7 +77,7 @@ The AI agent:
 
 
 
-\## Demo Flow (Conceptual)
+## Demo Flow (Conceptual)
 
 1\. Add or modify a `.py`, `.md`, or `.txt` file in the `codebase/` folder
 
@@ -104,7 +89,7 @@ The AI agent:
 
 
 
-\## Status
+## Status
 
 This repository demonstrates:
 
@@ -117,6 +102,7 @@ This repository demonstrates:
 
 
 Docker-based execution and UI integration are planned for future iterations.
+
 
 
 
